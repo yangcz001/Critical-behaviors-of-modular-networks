@@ -1,0 +1,1 @@
+In this study, a modular network with dense intra-module links but sparse inter-module links is established, and the behavior of each neuron is governed by the Kinouchi-Copelli model. Moreover, randomized surrogate networks with identical degree distribution are introduced to illustrate the significance of modular structures for criticality.
